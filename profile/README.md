@@ -95,3 +95,15 @@
 > 1. **Struktur:** Jedes Projekt erhält die 7 Standard-Ordner ( 1_app-web/ bis  7_demos-media/), ein SVG-Banner (randing-hero.svg), eine interaktive Demo (deployment-demo.html), eine FILE_INDEX.tsv und eine README.md im DkZ Design System v2 (#060608 / #fa1e4e / #00ff88).
 > 2. **Staging & Upload:** Direkter Push als eigenes Repo unter $orgName (oder bei Browser-LLMs ohne Org-Token als sauberer Ordner in 7IKED/DEVKI7 Branch deploy/DkZ-DEVKiTZ-addendum-YYYYMMDD per Git-Blob-Referenz).
 > 3. **Pflicht-Eintrag auf dieser Startseite:** Nach jedem neuen Projekt oder Release MUSS dieses Dokument ($orgName/.github ➔ profile/README.md) oben in den **Projekt-Boards** und hier direkt über diesem Block im **Live Release- & Update-Blog** aktualisiert werden!
+
+### 🚀 `2026-10-24` — Release `v2.2.0`: SecondBrain, AI-Agent Playground, AgentOS Collection & 355 Konversationen
+- **Neu veröffentlicht:** [`dkz-second-brain`](https://github.com/DkZ-DEVKiTZ/dkz-second-brain) (1.272 Dateien + 46 Konversationen), [`dkz-ai-agent-playground`](https://github.com/DkZ-DEVKiTZ/dkz-ai-agent-playground) (493 Dateien + 26 Konversationen), [`dkz-agentos-collection`](https://github.com/DkZ-DEVKiTZ/dkz-agentos-collection) (1.140 Dateien, 101,87 MB) und [`dkz-conversations-brain-archive`](https://github.com/DkZ-DEVKiTZ/dkz-conversations-brain-archive) (355 Konversationen, 1.553 Artefakte) vollständig im DkZ™ v2 7-Ordner-Standard veröffentlicht.
+
+### 🧠 Neu verankerte Workspaces, Playgrounds & Konversations-Archive (`v2.2.0`)
+
+| Repository | Inhalt & Umfang | Konversationen | Release |
+| :--- | :--- | :--- | :--- |
+| [**`dkz-second-brain`**](https://github.com/DkZ-DEVKiTZ/dkz-second-brain) | Komplettes `SecondBrain` Projekt (`00_Dashboard`..`99_Templates`, Hermes, Skills, Blueprints, `graph-ui.html`) — **1.272 Dateien (26,61 MB)** | `46 Konversationen` | [`v2.2.0`](https://github.com/DkZ-DEVKiTZ/dkz-second-brain/releases/tag/v2.2.0) |
+| [**`dkz-ai-agent-playground`**](https://github.com/DkZ-DEVKiTZ/dkz-ai-agent-playground) | `ai-agent-playground`, `shimmering-meteor` Voice App, `hello-world-1`, `kern` MCP, Playbooks & 42 Knowledge Items — **493 Dateien (8,35 MB)** | `26 Konversationen` | [`v2.2.0`](https://github.com/DkZ-DEVKiTZ/dkz-ai-agent-playground/releases/tag/v2.2.0) |
+| [**`dkz-agentos-collection`**](https://github.com/DkZ-DEVKiTZ/dkz-agentos-collection) | `DEVKiTZ-AgentOS-Collection` (`Claude-Code`, `Codex`, `Hermes`, `Jarvis`, `NanoBot`, `NanoChat`, `OpenManus` + `00_INBOX`) — **1.140 Dateien (101,87 MB)** | `AgentOS Suite` | [`v2.2.0`](https://github.com/DkZ-DEVKiTZ/dkz-agentos-collection/releases/tag/v2.2.0) |
+| [**`dkz-conversations-brain-archive`**](https://github.com/DkZ-DEVKiTZ/dkz-conversations-brain-archive) | Alle Antigravity Konversationen, Walkthroughs, Implementierungspläne, Tasks, Skripte & Chat-Logs — **1.553 Dateien (66,72 MB)** | `355 Konversationen` | [`v2.2.0`](https://github.com/DkZ-DEVKiTZ/dkz-conversations-brain-archive/releases/tag/v2.2.0) |
